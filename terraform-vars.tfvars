@@ -1,5 +1,5 @@
-aws_access-key = "AKIAQT3QJQWSH2HCJ7EE"
-aws_secreat-key =  "Rr6k4Tz++r/q3wJ+kWeChdvjv3yCp3mtX0/ZyR4X"
+aws_access-key = "XXXXXX"
+aws_secreat-key =  "XXXXXXXXXX"
 region = "us-east-1"
 
 vpc-cidr="192.168.0.0/16"
